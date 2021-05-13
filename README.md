@@ -11,7 +11,7 @@ El algoritmo, una vez aprendida la habitación irá navegando por ella priorizan
 
 La memoria PDF adjunta da una explicación más extensa del funcionamiento del algoritmo y además cuenta con una relación de cuál ha sido su eficacia y eficiencia a la hora de limpiar distintos tipos de mapas.
 
-## Variante: El perro que busca trufas ##
+### Variante: Perro busca trufas ###
 
 Este ejercicio contiene una variante al problema del aspirador: En lugar de un aspirador el agente es un perro que en lugar de aspirar suciedad, debe recoger trufas que se generan aleatoriamente en el mapa. 
 La dificultad añadida de esta variante es que el perro deberá recoger las trufas de una casilla antes de que pase demasiado tiempo, en caso contrario, las trufas se pudrirán y la casilla quedará inutilizada para el resto de la partida.
